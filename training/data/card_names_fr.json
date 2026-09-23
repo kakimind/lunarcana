@@ -1,0 +1,18 @@
+{
+  "ar00": "Le Mat", "ar01": "Le Bateleur", "ar02": "La Papesse", "ar03": "L'Impératrice", "ar04": "L'Empereur", "ar05": "Le Pape",
+  "ar06": "L'Amoureux", "ar07": "Le Chariot", "ar08": "La Force", "ar09": "L'Ermite", "ar10": "La Roue de Fortune", "ar11": "La Justice",
+  "ar12": "Le Pendu", "ar13": "La Mort", "ar14": "Tempérance", "ar15": "Le Diable", "ar16": "La Tour", "ar17": "L'Étoile",
+  "ar18": "La Lune", "ar19": "Le Soleil", "ar20": "Le Jugement", "ar21": "Le Monde",
+  "wapa": "Valet de Bâtons", "wakn": "Cavalier de Bâtons", "waqu": "Reine de Bâtons", "waki": "Roi de Bâtons", "waac": "As de Bâtons",
+  "wa02": "Deux de Bâtons", "wa03": "Trois de Bâtons", "wa04": "Quatre de Bâtons", "wa05": "Cinq de Bâtons", "wa06": "Six de Bâtons",
+  "wa07": "Sept de Bâtons", "wa08": "Huit de Bâtons", "wa09": "Neuf de Bâtons", "wa10": "Dix de Bâtons",
+  "cupa": "Valet de Coupes", "cukn": "Cavalier de Coupes", "cuqu": "Reine de Coupes", "cuki": "Roi de Coupes", "cuac": "As de Coupes",
+  "cu02": "Deux de Coupes", "cu03": "Trois de Coupes", "cu04": "Quatre de Coupes", "cu05": "Cinq de Coupes", "cu06": "Six de Coupes",
+  "cu07": "Sept de Coupes", "cu08": "Huit de Coupes", "cu09": "Neuf de Coupes", "cu10": "Dix de Coupes",
+  "pepa": "Valet de Deniers", "pekn": "Cavalier de Deniers", "pequ": "Reine de Deniers", "peki": "Roi de Deniers", "peac": "As de Deniers",
+  "pe02": "Deux de Deniers", "pe03": "Trois de Deniers", "pe04": "Quatre de Deniers", "pe05": "Cinq de Deniers", "pe06": "Six de Deniers",
+  "pe07": "Sept de Deniers", "pe08": "Huit de Deniers", "pe09": "Neuf de Deniers", "pe10": "Dix de Deniers",
+  "swpa": "Valet d'Épées", "swkn": "Cavalier d'Épées", "swqu": "Reine d'Épées", "swki": "Roi d'Épées", "swac": "As d'Épées",
+  "sw02": "Deux d'Épées", "sw03": "Trois d'Épées", "sw04": "Quatre d'Épées", "sw05": "Cinq d'Épées", "sw06": "Six d'Épées",
+  "sw07": "Sept d'Épées", "sw08": "Huit d'Épées", "sw09": "Neuf d'Épées", "sw10": "Dix d'Épées"
+}

@@ -1,0 +1,18 @@
+{
+  "ar00": "Der Narr", "ar01": "Der Magier", "ar02": "Die Hohepriesterin", "ar03": "Die Herrscherin", "ar04": "Der Herrscher", "ar05": "Der Hierophant",
+  "ar06": "Die Liebenden", "ar07": "Der Wagen", "ar08": "Die Kraft", "ar09": "Der Eremit", "ar10": "Das Rad des Schicksals", "ar11": "Die Gerechtigkeit",
+  "ar12": "Der Gehängte", "ar13": "Der Tod", "ar14": "Mäßigkeit", "ar15": "Der Teufel", "ar16": "Der Turm", "ar17": "Der Stern",
+  "ar18": "Der Mond", "ar19": "Die Sonne", "ar20": "Das Gericht", "ar21": "Die Welt",
+  "wapa": "Bube der Stäbe", "wakn": "Ritter der Stäbe", "waqu": "Königin der Stäbe", "waki": "König der Stäbe", "waac": "Ass der Stäbe",
+  "wa02": "Zwei der Stäbe", "wa03": "Drei der Stäbe", "wa04": "Vier der Stäbe", "wa05": "Fünf der Stäbe", "wa06": "Sechs der Stäbe",
+  "wa07": "Sieben der Stäbe", "wa08": "Acht der Stäbe", "wa09": "Neun der Stäbe", "wa10": "Zehn der Stäbe",
+  "cupa": "Bube der Kelche", "cukn": "Ritter der Kelche", "cuqu": "Königin der Kelche", "cuki": "König der Kelche", "cuac": "Ass der Kelche",
+  "cu02": "Zwei der Kelche", "cu03": "Drei der Kelche", "cu04": "Vier der Kelche", "cu05": "Fünf der Kelche", "cu06": "Sechs der Kelche",
+  "cu07": "Sieben der Kelche", "cu08": "Acht der Kelche", "cu09": "Neun der Kelche", "cu10": "Zehn der Kelche",
+  "pepa": "Bube der Münzen", "pekn": "Ritter der Münzen", "pequ": "Königin der Münzen", "peki": "König der Münzen", "peac": "Ass der Münzen",
+  "pe02": "Zwei der Münzen", "pe03": "Drei der Münzen", "pe04": "Vier der Münzen", "pe05": "Fünf der Münzen", "pe06": "Sechs der Münzen",
+  "pe07": "Sieben der Münzen", "pe08": "Acht der Münzen", "pe09": "Neun der Münzen", "pe10": "Zehn der Münzen",
+  "swpa": "Bube der Schwerter", "swkn": "Ritter der Schwerter", "swqu": "Königin der Schwerter", "swki": "König der Schwerter", "swac": "Ass der Schwerter",
+  "sw02": "Zwei der Schwerter", "sw03": "Drei der Schwerter", "sw04": "Vier der Schwerter", "sw05": "Fünf der Schwerter", "sw06": "Sechs der Schwerter",
+  "sw07": "Sieben der Schwerter", "sw08": "Acht der Schwerter", "sw09": "Neun der Schwerter", "sw10": "Zehn der Schwerter"
+}
