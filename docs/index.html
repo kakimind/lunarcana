@@ -159,8 +159,9 @@
 
   /* ================= shots ================= */
   .shots{ padding: 1rem 0 6.5rem; }
-  .shot-grid{ display:grid; grid-template-columns: repeat(4, 1fr); gap:1.4rem; }
-  @media (max-width:860px){ .shot-grid{ grid-template-columns: repeat(2, 1fr); } }
+  .shot-grid{ display:grid; grid-template-columns: repeat(5, 1fr); gap:1.4rem; }
+  @media (max-width:1040px){ .shot-grid{ grid-template-columns: repeat(3, 1fr); } }
+  @media (max-width:760px){ .shot-grid{ grid-template-columns: repeat(2, 1fr); } }
   @media (max-width:520px){ .shot-grid{ grid-template-columns: 1fr; max-width:20rem; margin:0 auto; } }
   .shot{ margin:0; }
   .shot img{ width:100%; height:auto; display:block; border-radius:14px; border:1px solid var(--line-soft); }
@@ -354,20 +355,24 @@
     </div>
     <div class="shot-grid">
       <figure class="shot">
-        <img src="shots/01-modes.webp" width="640" height="1137" alt="1장·3장·켈틱크로스 중에서 리딩 방식을 고르는 화면" loading="lazy">
+        <img src="shots/01-modes.webp" width="640" height="1138" alt="1장·3장·켈틱크로스 중에서 리딩 방식을 고르는 화면" loading="lazy">
         <figcaption>모드 — 고민의 크기만큼 카드 수를 고른다</figcaption>
       </figure>
       <figure class="shot">
-        <img src="shots/02-ask.webp" width="640" height="1137" alt="질문을 적고 카드 뽑기 버튼을 누르는 화면" loading="lazy">
+        <img src="shots/02-three.webp" width="640" height="1138" alt="3장 모드에서 질문을 적고 카드 뽑기를 기다리는 화면" loading="lazy">
         <figcaption>질문 — 마음에 걸리는 걸 한 줄로 적는다</figcaption>
       </figure>
       <figure class="shot">
-        <img src="shots/03-first-card.webp" width="640" height="1137" alt="켈틱크로스 첫 장으로 연인 카드가 펼쳐진 화면" loading="lazy">
+        <img src="shots/03-reading.webp" width="640" height="1138" alt="3장 리딩의 첫 장으로 달 카드가 펼쳐지고 루나가 해석을 건네는 화면" loading="lazy">
         <figcaption>첫 장 — 뒤집은 그 카드만 읽어준다</figcaption>
       </figure>
       <figure class="shot">
-        <img src="shots/04-celtic.webp" width="640" height="1137" alt="켈틱크로스 네 번째 카드로 컵의 여왕이 펼쳐진 화면" loading="lazy">
-        <figcaption>켈틱크로스 — 열 장을, 한 번에 한 장씩</figcaption>
+        <img src="shots/04-wrapup.webp" width="640" height="1138" alt="마지막 카드까지 읽고 세 장을 하나의 흐름으로 묶어주는 화면" loading="lazy">
+        <figcaption>마무리 — 흩어진 카드가 한 이야기로 묶인다</figcaption>
+      </figure>
+      <figure class="shot">
+        <img src="shots/05-deck.webp" width="640" height="1138" alt="직접 그린 78장 덱을 모아 둔 도감 화면" loading="lazy">
+        <figcaption>78덱 도감 — 한복과 단청으로 새로 그린 78장</figcaption>
       </figure>
     </div>
   </div>
