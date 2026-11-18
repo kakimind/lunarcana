@@ -60,15 +60,16 @@
   .nav-row{ display:flex; align-items:center; justify-content:space-between; padding: 0.9rem 0; }
   .brand{ display:flex; align-items:center; gap:0.55rem; font-family: var(--font-display); font-weight:600; font-style:italic; font-size:1.25rem; color: var(--parchment); }
   .brand .mark{ width:20px; height:20px; }
-  .nav-links{ display:flex; gap:2rem; font-size:0.8rem; color: var(--muted); }
+  .nav-links{ display:flex; gap:2rem; margin:0 auto; font-size:0.8rem; color: var(--muted); }
   .nav-links a:hover{ color: var(--gold-bright); }
-  .navback{
+  .backbar{
+    position: fixed; top: 1.2rem; right: 1.6rem; z-index: 50;
     font-family: var(--font-mono); font-size:0.68rem; letter-spacing:0.06em;
     text-transform:uppercase; color: var(--muted);
     border-bottom:1px solid var(--line); padding-bottom:0.15rem;
   }
-  .navback:hover{ color: var(--gold-bright); border-color: var(--gold-bright); }
-  @media (max-width:760px){ .nav-links{ display:none; } .navback .long{ display:none; } }
+  .backbar:hover{ color: var(--gold-bright); border-color: var(--gold-bright); }
+  @media (max-width:760px){ .nav-links{ display:none; } .backbar .long{ display:none; } }
 
   /* ================= hero ================= */
   .hero{
@@ -231,6 +232,8 @@
 </head>
 <body>
 
+<a class="backbar" href="https://kakimind.github.io/">← <span class="long">Back to Issue </span>Index</a>
+
 <nav>
   <div class="wrap nav-row">
     <div class="brand">
@@ -246,7 +249,6 @@
       <a href="#persona">루나</a>
       <a href="#languages">언어</a>
     </div>
-    <a class="navback" href="https://kakimind.github.io/">← <span class="long">Back to Issue </span>Index</a>
   </div>
 </nav>
 
